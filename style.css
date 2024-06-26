@@ -44,7 +44,7 @@ a {
   font-size: 16px;
   border: none;
   background-color: var(--primary-color);
-  color: #fafafa;
+  color: var(--alt-color);
   cursor: pointer;
   padding: 8px 12px;
   border-radius: 6px;
